@@ -1,1 +1,1 @@
-# collabrative_movie_recommendation
+# collaborative_filter_movie_recommendation
